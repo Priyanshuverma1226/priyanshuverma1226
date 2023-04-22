@@ -1,5 +1,5 @@
 # Hi there, I'm Priyanshu Verma 👋
-I'm a passionate programmer with a keen interest in both Machine Learning and Web Development. I love exploring new technologies and building cool projects that can make an impact on the world.
+#### I'm a passionate programmer with a keen interest in both Machine Learning and Web Development. I love exploring new technologies and building cool projects that can make an impact on the world.
 
 # 🌱 Skills
 ### Programming Languages: Python, JavaScript, HTML/CSS, Java, C++
