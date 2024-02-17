@@ -8,7 +8,7 @@
 ### Tools: Git, Jupyter Notebook, VS Code, PyCharm, IntelliJ IDEA
 # 📫 Contact Me
 ### Email: p.verma1226@gmail.com
-### Website: [Smartcoderrz](https://priyanshu.smartcoderz.tech/)
+### Website: [Smartcoderrz](https://smartcoderz.in/)
 # ⚡ Fun Fact
 I love hiking and exploring the great outdoors. Whenever I need a break from coding, you can find me out on a trail somewhere.
 
